@@ -53,7 +53,7 @@ tags:
 - News Alerts
 - Media Monitoring
 - Natural Language Processing
-- Machine-Learning
+- Machine Learning
 - Acquired
 - Defunct
 tags_raw:
@@ -65,6 +65,7 @@ tags_raw:
 - Machine Learning
 - Acquired
 - Defunct
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
